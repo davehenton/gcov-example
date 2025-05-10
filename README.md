@@ -2,14 +2,15 @@
 
 **Use [Gcov](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html) + [LCOV](https://github.com/linux-test-project/lcov) / [gcovr](https://github.com/gcovr/gcovr) to show C/C++ projects code coverage results.**
 
-[![pages-build-deployment](https://github.com/shenxianpeng/gcov-example/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/shenxianpeng/gcov-example/actions/workflows/pages/pages-build-deployment) [![Build](https://github.com/shenxianpeng/gcov-example/actions/workflows/build.yml/badge.svg)](https://github.com/shenxianpeng/gcov-example/actions/workflows/build.yml)
+[![Build](https://github.com/shenxianpeng/gcov-example/actions/workflows/build.yml/badge.svg)](https://github.com/shenxianpeng/gcov-example/actions/workflows/build.yml)
+[![Cpp Linter](https://github.com/shenxianpeng/gcov-example/actions/workflows/cpp-linter.yml/badge.svg)](https://github.com/shenxianpeng/gcov-example/actions/workflows/cpp-linter.yml)
 
 This repo shows how to use Gcov to create lcov/gcovr coverage reports for C/C++ projects.
 
 **Code coverage reports online**
 
-* 📄 [LCOV - code coverage report](https://shenxianpeng.github.io/gcov-example/lcov-report/index.html)
-* 📄 [gcovr - code coverage report](https://shenxianpeng.github.io/gcov-example/gcovr-report/coverage.html)
+* 📊 [LCOV - code coverage report](https://shenxianpeng.github.io/gcov-example/lcov-report/index.html)
+* 📊 [gcovr - code coverage report](https://shenxianpeng.github.io/gcov-example/gcovr-report/coverage.html)
 
 Note: The source code is under the `master` branch, and code coverage report under branch `coverage`.
 
